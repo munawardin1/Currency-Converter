@@ -47,4 +47,4 @@ Currency is changed → conversion result updates automatically.
 API Call:
 The app fetches conversion rates from the Latest Currency API and calculates the result with two decimal precision.
 
-Live Demo ---->
+Live Demo ---->  https://munawardin1.github.io/Currency-Converter/
